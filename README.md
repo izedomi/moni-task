@@ -19,6 +19,7 @@ Agent avatar uses fullname initials as placeholders for agents without a media U
 - Inter
 
 ## Icon
+<<<<<<< HEAD
 - FontAwesome Icons
 - Flutter material Icon
 
@@ -27,6 +28,16 @@ Agent avatar uses fullname initials as placeholders for agents without a media U
   - fonts
   - images
 - lib
+=======
+- FontAwesome
+- Material Icon
+
+## Folder Structure
+- Assets
+  - fonts
+  - images
+- Lib
+>>>>>>> 14261014d06ef68c8f39eff918abecf0ad434ff8
   - core
     - constants
     - enums
