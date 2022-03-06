@@ -16,7 +16,6 @@ Agent avatar uses fullname initials as placeholders for agents without a media U
 APK file is included in the root folder(moni.apk)
 
 
-
 ## Fonts
 - DMSans
 - Inter
@@ -25,24 +24,34 @@ APK file is included in the root folder(moni.apk)
 - FontAwesome
 - Material Icon
 
+## Packages
+- cupertino_icons
+- http
+- provider
+- font_awesome_flutter
+- flutter_screenutil
+- flutter_svg
+- intl
+
 ## Folder Structure
-- Assets
-  - fonts
-  - images
-- Lib
-  - core
-    - constants
-    - enums
-    - models
-    - routes
-    - services
-    - utils
-    - vm
-  - ui
-    - pages
-    - shared
-      - helpers
-      - widget
+- moni
+  - assets
+    - fonts
+    - images
+  - lib
+    - core
+      - constants
+      - enums
+      - models
+      - routes
+      - services
+      - utils
+      - vm
+    - ui
+      - pages
+      - shared
+        - helpers
+        - widget
 
 
 ## Screenshots

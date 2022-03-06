@@ -1,14 +1,18 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:moni/core/routes/router.dart';
 import 'package:moni/locator.dart';
-import 'package:moni/ui/pages/cluster.dart';
 import 'package:moni/ui/shared/helpers/colors.dart';
 import 'package:provider/provider.dart';
 
 import 'ui/pages/splash.dart';
 
-void main() {
+void main() async {
+  await SystemChrome.setPreferredOrientations([
+    DeviceOrientation.portraitUp,
+    DeviceOrientation.portraitDown,
+  ]);
   runApp(const MyApp());
 }
 
