@@ -2,7 +2,7 @@
 
 UI and API integration of the Moni task for the role of Flutter Mobile Engineer.
 
-## Getting Started
+## Brief Description
 
 A single page UI and API implementation of "My Cluster" screen. The page shows the details of a cluster. It has two
 tabviews(members and cluster details). The "Members" tabview that shows the list of members in the clusters and their various loan status while the "Cluster Details" tabview shows details of the cluster.
@@ -21,6 +21,25 @@ Agent avatar uses fullname initials as placeholders for agents without a media U
 ## Icon
 - FontAwesome
 - Material Icon
+
+## Folder Structure
+- Assets
+  - fonts
+  - images
+- Lib
+  - core
+    - constants
+    - enums
+    - models
+    - routes
+    - services
+    - utils
+    - vm
+  - ui
+    - pages
+    - shared
+      - helpers
+      - widget
 
 
 ## Screenshots
