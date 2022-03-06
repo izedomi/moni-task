@@ -8,11 +8,11 @@ import 'package:provider/provider.dart';
 
 import 'ui/pages/splash.dart';
 
-void main() async {
-  await SystemChrome.setPreferredOrientations([
-    DeviceOrientation.portraitUp,
-    DeviceOrientation.portraitDown,
-  ]);
+void main() {
+  // await SystemChrome.setPreferredOrientations([
+  //   DeviceOrientation.portraitUp,
+  //   DeviceOrientation.portraitDown,
+  // ]);
   runApp(const MyApp());
 }
 

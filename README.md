@@ -13,8 +13,10 @@ Uses a Moni Logo as a loading and error placeholders
 
 Agent avatar uses fullname initials as placeholders for agents without a media URL
 
+APK file(moni.apk) is available on the root directory
+
 ## APK DOWNLOAD
-https://drive.google.com/file/d/1uxAkUi4rxc5vCGSd3PTv2XytrwPVXFk8/view?usp=sharing
+https://drive.google.com/file/d/1NZGss0BIohyxQ3Mh0_x6rxLJV4Iofxa-/view?usp=sharing
 
 
 ## Fonts
