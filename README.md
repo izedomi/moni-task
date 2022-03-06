@@ -1,5 +1,6 @@
 # Flutter Mobile Engineer Task - Moni
 
+<<<<<<< HEAD
 UI and API integration of the Moni task for the role of Flutter Mobile Engineer.
 
 ## Getting Started
@@ -12,6 +13,10 @@ Uses a full page loader with the Moni logo when an API call is active
 Uses a Moni Logo as a loading and error placeholders
 
 Agent avatar uses fullname initials as placeholders for agents without a media URL
+=======
+Screen UI and API integration examine your knowledge of general Software Engineering Principles and your general knowledge of Flutter.
+
+>>>>>>> 310d5fe8dad42f10d8cbd19c5ee770fbee1b7061
 
 ## Fonts
 - DMSans
