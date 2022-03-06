@@ -13,22 +13,15 @@ Uses a Moni Logo as a loading and error placeholders
 
 Agent avatar uses fullname initials as placeholders for agents without a media URL
 
+APK file is included in the root folder(moni.apk)
+
+
 
 ## Fonts
 - DMSans
 - Inter
 
 ## Icon
-<<<<<<< HEAD
-- FontAwesome Icons
-- Flutter material Icon
-
-## Folder Structure
-- assets
-  - fonts
-  - images
-- lib
-=======
 - FontAwesome
 - Material Icon
 
@@ -37,7 +30,6 @@ Agent avatar uses fullname initials as placeholders for agents without a media U
   - fonts
   - images
 - Lib
->>>>>>> 14261014d06ef68c8f39eff918abecf0ad434ff8
   - core
     - constants
     - enums
