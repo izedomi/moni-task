@@ -7,6 +7,10 @@ UI and API integration of the Moni task for the role of Flutter Mobile Engineer.
 UI and API implementation of "My Cluster" screen. The page shows the details of a cluster. It has two
 tabviews(members and cluster details). The "Members" tabview that shows the list of members in the clusters and their various loan status while the "Cluster Details" tabview shows details of the cluster.
 
+Uses MVVM architecture
+
+Uses Provider for its state management
+
 Uses a full page loader with the Moni logo when an API call is active
 
 Uses a Moni Logo as a loading and error placeholders
